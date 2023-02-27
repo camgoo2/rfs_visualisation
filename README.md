@@ -1,9 +1,17 @@
-# rfs_visualisation Title -1
+# rfs_visualisation 
 
-## Working on my first Read me documentation. Potential outline below
+## Welcome to my first project where Australian Eastern Seaboard fire data is able to be visualised on a map.
 
-2-An intro paragraph focused on what the project does - Write an intro paragraph about what this project is, what it does, and how it’s used. This section is still for SEO purposes and for keeping it simple about the value your project provides to the user who is searching for it.
+I have  web scraped the rural fire services data from the Australian states of Queenland, Victoria and New South Walesasind put into a nice intercative choropeth map available which I have published here.......link to come.
 
+Please see my flow diagram below.
+
+I welcome any and all contributions! Here are some ways you can get started:
+
+Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
+Contribute code: If you are a developer and want to contribute, follow the instructions below to get started!
+Suggestions: If you don't want to code but have some awesome ideas, open up an issue explaining some updates or imporvements you would like to see!
+Documentation: If you see the need for some additional documentation, feel free to add some!
 3-Diagram (optional) - If necessary, add a diagram showing where this project fits and how it works. If it’s a CLI tool or a graphical tool, this would be a great opportunity to add an animated GIF of your project in action. Even better, adding a youtube video demo of your project to your README could be very beneficial to gaining more users.This could be a flow diagram here.
 
 4-Installation and usage instructions (for end-users) - Now it’s time to get a little bit nerdier. If a user has gotten this far into your README, you bet there’s a chance they actually want to use your project. Give instructions on how to install or use the tool. Don’t get this confused with how to contribute to this project (like help improve the code), that’s the next section. This section should only talk about how to be a consumer of the project
