@@ -2,9 +2,18 @@
 
 ## Welcome to my first project where Australian Eastern Seaboard fire data is able to be visualised on a map.
 
-I have  web scraped the rural fire services data from the Australian states of Queenland, Victoria and New South Walesasind put into a nice intercative choropeth map available which I have published here.......link to come.
+I have web scraped the rural fire services data from the Australian states of Queenland, Victoria and New South Walesas and put into a nice intercative choropleth map available which I have published here.......link to come.
 
-Please see my flow diagram below.
+Objectives: 
+Setup AWS root user and enable credentials to make programmatic calls to AWS Toolkit for Visual Studio Code
+Create AWS IAM user access for 's3' (dtabase cloud storage) and 'Athena' (SQL query engine)
+Extract and clean Rural Fire Services fire locations data from the 3 states and put into a dataframe which will include the latitude and longtitude points. Upload this data to s3.
+Find local government area (lga) polygon shapefile data and lga population data. Do a SQL join on this data to enablea data frame with both the polygons and population data.
+Do a points in polygon join, which will show us which local government areas particular fires are in.
+Create a interactive choropleth style map which shows the fire locations and relevant information. 
+
+Please see my flow chart below.....
+
 
 I welcome any and all contributions! Here are some ways you can get started:
 
