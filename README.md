@@ -2,7 +2,7 @@
 
 ## Welcome to my first project where Australian Eastern Seaboard fire data is able to be visualised on a map.
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="(https://simpleicons.org/icons/aerlingus.svg)" height="100" /></a>
+![](![hot-fire-icon-cartoon-bonfire-campfire-flame_176411-4556 ](https://user-images.githubusercontent.com/114447057/222259332-d4362d20-cf4a-4c16-bf8c-76be67789bba.png)
 
 I have web scraped the rural fire services data from the Australian states of Queenland, Victoria and New South Walesas and put into a nice intercative choropleth map available which I have published here.......link to come.
 
