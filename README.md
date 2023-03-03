@@ -11,7 +11,8 @@ The final visualisation can be viewed below, where fire locations are mapped wit
 
 ![rfs_visualisation_snippet](https://user-images.githubusercontent.com/114447057/222837496-b0cec4e0-79dd-4a50-9dd1-7a24e54bd973.png)
 
-Objectives: 
+## Objectives: 
+**AWS**
 - Setup AWS root user and enable credentials to make programmatic calls to AWS Toolkit for Visual Studio Code
 - Create AWS IAM user access for 's3' (database cloud storage) and 'Athena' (SQL query engine)
 *Locate, extract and clean fire locations data and store in s3
