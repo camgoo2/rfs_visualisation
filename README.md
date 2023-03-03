@@ -1,21 +1,27 @@
 # rfs_visualisation 
 
-## Welcome to my first project where Australian Eastern Seaboard fire data is able to be visualised on a map.
+## Welcome to my first project where Australian fire data is able to be visualised on a map.
 
-![rfs_flow_chart](https://user-images.githubusercontent.com/114447057/222263519-67c223d1-0ff8-4017-b161-31f93fe72391.png))
 
-I have web scraped the rural fire services data from the Australian states of Queenland, Victoria and New South Walesas and put into a nice intercative choropleth map available which I have published here.......link to come.
+I have web scraped the rural fire services data from the Australian states of Queenland and Victoria and put into a nice intercative choropleth map.
+
+An important part of this project was to being able to utilise the AWS database products of *s3* and *Athena*  
+
+The final visualisation can be viewed below, where fire locations are mapped within their local government area(lga).
+
+![rfs_visualisation_snippet](https://user-images.githubusercontent.com/114447057/222837496-b0cec4e0-79dd-4a50-9dd1-7a24e54bd973.png)
 
 Objectives: 
-Setup AWS root user and enable credentials to make programmatic calls to AWS Toolkit for Visual Studio Code
-Create AWS IAM user access for 's3' (dtabase cloud storage) and 'Athena' (SQL query engine)
-Extract and clean Rural Fire Services fire locations data from the 3 states and put into a dataframe which will include the latitude and longtitude points. Upload this data to s3.
-Find local government area (lga) polygon shapefile data and lga population data. Do a SQL join on this data to enablea data frame with both the polygons and population data.
-Do a points in polygon join, which will show us which local government areas particular fires are in.
-Create a interactive choropleth style map which shows the fire locations and relevant information. 
+*Setup AWS root user and enable credentials to make programmatic calls to AWS Toolkit for Visual Studio Code
+*Create AWS IAM user access for 's3' (database cloud storage) and 'Athena' (SQL query engine)
+*Locate, extract and clean fire locations data and store in s3
+*Locate lga polygon and  lga population data. SQL join both these datasets.
+*Enable fire locations and lga relationship with a points in polygon instersectional join.
+*Create a interactive choropleth style map which shows the fire locations and relevant information. 
 
 Please see my flow chart below.....
 
+![rfs_flow_chart](https://user-images.githubusercontent.com/114447057/222263519-67c223d1-0ff8-4017-b161-31f93fe72391.png))
 
 I welcome any and all contributions! Here are some ways you can get started:
 
