@@ -3,10 +3,10 @@
 ## Australian bush fire data is able to be visualised on a choropleth map.
 
 
-In this project I webscrape data from bush fire data from the relevant rural fire services websites and put into an interactive visualisation with reference to the local government areas they occured in.
-An important part of this project is being utilising the AWS *s3* and *Athena* environments.
+In this project I webscrape data from bush fire data from the relevant rural fire services websites and put into an interactive visualisation with reference to the local government areas(lga) they occured in.
+An important part of this project is being utilising the AWS **s3** and **Athena** environments.
 
-The final visualisation can be viewed below, where fire locations are mapped within their local government area(lga).
+The final visualisation can be viewed below, where fire locations are mapped within their local government area.
 
 ![rfs_visualisation_snippet](https://user-images.githubusercontent.com/114447057/222837496-b0cec4e0-79dd-4a50-9dd1-7a24e54bd973.png)
 
