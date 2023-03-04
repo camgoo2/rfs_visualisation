@@ -16,19 +16,19 @@ The final visualisation can be viewed below, where fire locations are mapped wit
 - Setup AWS root user and enable credentials to make programmatic calls to AWS Toolkit for Visual Studio Code
 - Create AWS IAM user access for 's3' (database cloud storage) and 'Athena' (SQL query engine)
 **Data**
--Locate, extract and clean fire locations data.
--Locate lga polygon and lga population data. 
--Put data sets to s3 bucket
--Create database tables in Athena
--Join lga polygon and lga population data based on Key ID field. SQL Query.
--Select Distinct fire data. SQL Query
--Enable fire locations and lga relationship with a points in polygon instersectional join.
+- Locate, extract and clean fire locations data.
+- Locate lga polygon and lga population data. 
+- Put data sets to s3 bucket
+- Create database tables in Athena
+- Join lga polygon and lga population data based on Key ID field. SQL Query.
+- Select Distinct fire data. SQL Query
+- Enable fire locations and lga relationship with a points in polygon instersectional join.
 **Visualisation**
-*Create a interactive choropleth style map which shows the fire locations and relevant information. 
+- Create a interactive choropleth style map which shows the fire locations and relevant information. 
 
 Please see my flow chart below.....
 
-![rfs_flow_chart](https://user-images.githubusercontent.com/114447057/222263519-67c223d1-0ff8-4017-b161-31f93fe72391.png))
+![rfs_flow_chart](https://user-images.githubusercontent.com/114447057/222857356-ff78d288-cf83-4c15-812e-165545e29f16.png)
 
 I welcome any and all contributions! Here are some ways you can get started:
 
