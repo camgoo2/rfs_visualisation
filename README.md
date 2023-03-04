@@ -1,6 +1,6 @@
 # rfs_visualisation 
 
-## Welcome to my first project where Australian bush fire data is able to be visualised on a choropleth map.
+## Australian bush fire data is able to be visualised on a choropleth map.
 
 
 In this project I webscrape data from bush fire data from the relevant rural fire services websites and put into an interactive visualisation with reference to the local government areas they occured in.
@@ -27,7 +27,7 @@ The final visualisation can be viewed below, where fire locations are mapped wit
 **Visualisation**
 - Create a interactive choropleth style map which shows the fire locations and relevant information. 
 
-##Flow chart of design steps
+## Flow chart of design steps
 
 ![rfs_flow_chart](https://user-images.githubusercontent.com/114447057/222857356-ff78d288-cf83-4c15-812e-165545e29f16.png)
 
