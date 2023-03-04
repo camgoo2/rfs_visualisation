@@ -15,6 +15,7 @@ The final visualisation can be viewed below, where fire locations are mapped wit
 **AWS**
 - Setup AWS root user and enable credentials to make programmatic calls to AWS Toolkit for Visual Studio Code
 - Create AWS IAM user access for 's3' (database cloud storage) and 'Athena' (SQL query engine)
+
 **Data**
 - Locate, extract and clean fire locations data.
 - Locate lga polygon and lga population data. 
@@ -23,6 +24,7 @@ The final visualisation can be viewed below, where fire locations are mapped wit
 - Join lga polygon and lga population data based on Key ID field. SQL Query.
 - Select Distinct fire data. SQL Query
 - Enable fire locations and lga relationship with a points in polygon instersectional join.
+
 **Visualisation**
 - Create a interactive choropleth style map which shows the fire locations and relevant information. 
 
