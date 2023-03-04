@@ -1,11 +1,10 @@
 # rfs_visualisation 
 
-## Welcome to my first project where Australian fire data is able to be visualised on a map.
+## Welcome to my first project where Australian bush fire data is able to be visualised on a choropleth map.
 
 
-I have web scraped the rural fire services data from the Australian states of Queenland and Victoria and put into a nice intercative choropleth map.
-
-An important part of this project was to being able to utilise the AWS database products of *s3* and *Athena*  
+In this project I webscrape data from bush fire data from the relevant rural fire services websites and put into an interactive visualisation with reference to the local government areas they occured in.
+An important part of this project is being utilising the AWS *s3* and *Athena* environments.
 
 The final visualisation can be viewed below, where fire locations are mapped within their local government area(lga).
 
@@ -13,7 +12,7 @@ The final visualisation can be viewed below, where fire locations are mapped wit
 
 ## Objectives: 
 **AWS**
-- Setup AWS root user and enable credentials to make programmatic calls to AWS Toolkit for Visual Studio Code
+- Setup AWS root user and enable credentials to make programmatic calls to AWS Toolkit through Visual Studio Code
 - Create AWS IAM user access for 's3' (database cloud storage) and 'Athena' (SQL query engine)
 
 **Data**
@@ -28,7 +27,7 @@ The final visualisation can be viewed below, where fire locations are mapped wit
 **Visualisation**
 - Create a interactive choropleth style map which shows the fire locations and relevant information. 
 
-Please see my flow chart below.....
+##Flow chart of design steps
 
 ![rfs_flow_chart](https://user-images.githubusercontent.com/114447057/222857356-ff78d288-cf83-4c15-812e-165545e29f16.png)
 
