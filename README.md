@@ -35,8 +35,9 @@ We can also click on individual fires to see further information including the r
 I welcome any and all contributions! Here are some ways you can get started:
 
 Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
+
 Documentation: If you see the need for some additional documentation, feel free to add some!
 
-Special thanks to my friend @pitanz for a bit of guidance.
+Special thanks to my friend @pitiznz for a bit of guidance.
 
 Cheers
