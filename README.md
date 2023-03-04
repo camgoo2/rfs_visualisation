@@ -30,7 +30,7 @@ We can also click on individual fires to see further information including the r
 
 ## Flow chart of design steps
 
-![rfs_flow_chart](https://user-images.githubusercontent.com/114447057/222857356-ff78d288-cf83-4c15-812e-165545e29f16.png)
+![rfs_flow_chart](https://user-images.githubusercontent.com/114447057/222875238-72dd1cb7-e3e3-4377-963d-595c533ed132.png)
 
 I welcome any and all contributions! Here are some ways you can get started:
 
