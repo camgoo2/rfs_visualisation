@@ -13,7 +13,7 @@ We can also click on individual fires to see further information including the r
 
 ## Objectives: 
 **AWS**
-- Setup AWS root user and enable credentials to make programmatic calls to AWS Toolkit through Visual Studio Code
+- Setup AWS root user and enable credentials to make programmatic calls to AWS through Visual Studio Code's Software Development Kit.
 - Create AWS IAM user access for 's3' (database cloud storage) and 'Athena' (SQL query engine)
 
 **Data**
