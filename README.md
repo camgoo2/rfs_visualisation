@@ -10,7 +10,7 @@ The final visualisation can be viewed below, where fire locations are mapped wit
 ![rfs_visualisation_snippet](https://user-images.githubusercontent.com/114447057/222837496-b0cec4e0-79dd-4a50-9dd1-7a24e54bd973.png)
 
 And then we can click on individual fires to see the report date and which lga it is within
-![rfs_fire_map_snip_2](https://user-images.githubusercontent.com/114447057/222862709-f24a0a95-d80b-4d51-9332-a161b81a5c9a.png)
+![rfs_visualisation_snippet_2](https://user-images.githubusercontent.com/114447057/222863176-3f797c59-481a-4668-b025-563c6c680ff3.png)
 
 ## Objectives: 
 **AWS**
