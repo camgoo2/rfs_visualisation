@@ -6,8 +6,10 @@
 In this project I webscrape bush fire data from the relevant rural fire services websites and visualise the data in relation to the local government areas(lga) the fires occured in.
 An important part of this project is utilising the AWS **s3** and **Athena** environments.
 
-The final visualisation can be viewed below, where fire locations are mapped within their local government area.
+A snippet of the visualisation can be viewed below, where fire locations are mapped within their local government area.
 We can also click on individual fires to see further information including the report date.
+
+For full access to my published application can be viewed here [https://[link-url-here.org](http://172.20.10.3:8501/)
 
 ![rfs_visual_snip](https://user-images.githubusercontent.com/114447057/222874721-32062d9c-e3ac-43be-99b5-beebc29f2e28.png)
 
