@@ -9,7 +9,7 @@ An important part of this project is utilising the AWS **s3** and **Athena** env
 A snippet of the visualisation can be viewed below, where fire locations are mapped within their local government area.
 We can also click on individual fires to see further information including the report date.
 
-For full access to my published application can be viewed here on the streamlit app (http:[streamlit](http://172.20.10.3:8501/))
+For full access to my published application can be the streamlit app. Click here to view :point_right: [streamlit](http://172.20.10.3:8501/)
 
 ![rfs_visual_snip](https://user-images.githubusercontent.com/114447057/222874721-32062d9c-e3ac-43be-99b5-beebc29f2e28.png)
 
