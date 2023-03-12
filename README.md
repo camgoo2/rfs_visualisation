@@ -40,6 +40,6 @@ Report bugs: If you encounter any bugs, please let us know. Open up an issue and
 
 Documentation: If you see the need for some additional documentation, feel free to add some!
 
-Special thanks to my friend @pitiznz for a bit of guidance.
+Special thanks to my friend @pitiznz for a bit of guidance :fire:
 
 Cheers
